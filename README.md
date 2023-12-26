@@ -45,15 +45,15 @@ Customer account details include tenure (how long they've been a customer), cont
 
 Demographic data includes gender, age range, and whether the customer has partners and dependents.
 
-Additional details about the demographic information are as follows:
+# Additional details about the demographic information are as follows:
 
-CustomerID: A unique identifier for each customer.
+a. CustomerID: A unique identifier for each customer.
 
-Senior Citizen: Indicates if the customer is a senior citizen (Yes/No).
+b. Senior Citizen: Indicates if the customer is a senior citizen (Yes/No).
 
-Dependents: Indicates if the customer lives with any dependents (Yes/No), where dependents could be children, parents, grandparents, etc.
+c. Dependents: Indicates if the customer lives with any dependents (Yes/No), where dependents could be children, parents, grandparents, etc.
 
-Tenure in Months: Represents the total number of months the customer has been with the company.
+d. Tenure in Months: Represents the total number of months the customer has been with the company.
 
-Total Charges: Calculated as the product of tenure and monthly charges.
+e. Total Charges: Calculated as the product of tenure and monthly charges.
 Multiple Lines: Indicates whether the customer subscribes to multiple telephone lines with the company (Yes/No).
